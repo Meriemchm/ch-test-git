@@ -7,8 +7,10 @@ const App = () => {
         Hello world!
       </h1>
       <div className="grid grid-cols-2 md:grid-cols-4">
-        <div className="bg-blue-200">
-          <p>hey</p>
+        <div className="bg-blue-200 flex flex-col ">
+          <h2>title</h2>
+          <p>description</p>
+
         </div>
       </div>
     </>
