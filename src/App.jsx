@@ -10,6 +10,7 @@ const App = () => {
         <div className="bg-blue-200 flex flex-col ">
           <h2>title</h2>
           <img src="localstorage.JPG" alt="oui" />
+          <img src="localstorage.JPG" alt="oui" />
         </div>
       </div>
     </>
