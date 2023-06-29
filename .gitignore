@@ -25,3 +25,6 @@ dist-ssr
 *.tmp/todo.txt
 *.tmp
 *.xml
+*.txt
+
+
