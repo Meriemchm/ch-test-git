@@ -22,7 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-*.tmp/todo.txt
 *.tmp
 *.xml
 *.txt
